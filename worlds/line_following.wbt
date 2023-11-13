@@ -24,7 +24,7 @@ Solid {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "../../../line_course.png"
+                "../line_course.png"
               ]
               repeatS FALSE
               repeatT FALSE
